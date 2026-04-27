@@ -1,21 +1,3 @@
-"""HuMP entry point.
-
-Usage examples
---------------
-
-Train (5-fold cross-validation)::
-
-    python main.py --study tcga_brca --modality hump \
-        --data_root_dir /path/to/wsi_features \
-        --results_dir ./results
-
-Inference with a saved checkpoint::
-
-    python main.py --study tcga_brca --modality hump --phase test \
-        --ckpt_path /path/to/checkpoint.pt \
-        --attn_save_root ./heat_pt
-"""
-
 import os
 import warnings
 from timeit import default_timer as timer
@@ -132,7 +114,6 @@ def main(data):
         is_survpath=True,
         type_of_pathway=args.type_of_path,
     )
-    args.memory_name = "memory/c_1.h5"
 
     _main(args)
 
@@ -142,7 +123,5 @@ def main(data):
 
 
 if __name__ == "__main__":
-    # By default we iterate over BRCA only; pass `--study tcga_<cohort>` and
-    # extend this loop, or wrap a shell driver, to run multiple cohorts.
     for data in ["brca"]:  # 'coadread', 'brca', 'hnsc', 'stad', 'blca'
         main(data)
