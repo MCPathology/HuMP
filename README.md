@@ -68,6 +68,8 @@ Diagnostic WSIs, molecular profiles, and clinical metadata can be obtained from 
 - [cBioPortal](https://www.cbioportal.org/)
 - [GDC Data Transfer Tool](https://docs.gdc.cancer.gov/Data_Transfer_Tool/Users_Guide/Data_Download_and_Upload/)
 
+The clinical variables used in HuMP are also derived from the GDC database and aligned at the patient/case level with the corresponding WSI and molecular profiles.
+
 The repository does not track large raw data files or generated features. See `docs/data.md` for the expected data layout.
 
 ## Processing Whole-Slide Images
@@ -217,4 +219,3 @@ If you use this repository, please cite:
   year    = {2026}
 }
 ```
-
