@@ -1,0 +1,59 @@
+# Python/cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Experiment outputs
+results*/
+baseline/
+deconf/
+memory/
+heat_pt/
+logs/
+checkpoints/
+*.ckpt
+*.pth
+
+# Large data and generated features
+gene_features/
+WSIdata/
+MILdata/
+Survival/datasets_csv/raw_rna_data/
+Survival/CPTAC-BRCA/
+Survival/lihc_clinical/
+*.h5
+*.hdf5
+*.pt
+*.npy
+*.npz
+*.gz
+*.tar
+*.tar.gz
+*.zip
+
+# Local/raw molecular inputs
+*.probemap
+CPTAC-3.star_counts.tsv.gz
+TCGA-LUAD.star_counts.tsv.gz
+TCGA-LUSC.star_counts.tsv.gz
+gene_features_pathway.tar.gz
+
+# Manuscript review working files
+review.txt
+response_letter*.tex
+HuMP.tex
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

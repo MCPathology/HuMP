@@ -1,0 +1,378 @@
+case_id,gender,race,ethnicity,age,pathologic_stage,pathologic_t,pathologic_n,pathologic_m,grade,primary_diagnosis,morphology,tissue_of_origin,site_of_resection,prior_malignancy,prior_treatment,classification_of_tumor
+TCGA-DD-AAVP,male,asian,not hispanic or latino,48,Stage I,T1,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A4NP,male,white,not hispanic or latino,32,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-BC-4073,male,white,not hispanic or latino,73,Stage IIIA,T3,N0,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-MI-A75E,male,white,not hispanic or latino,61,Stage IIIC,T4,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A7M8,male,asian,not hispanic or latino,31,Stage I,T1,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A11C,male,white,not hispanic or latino,69,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A9FW,male,asian,not hispanic or latino,68,,,,,,"Hepatocellular carcinoma, NOS",8170/3,,,,Yes,recurrence
+TCGA-CC-A3MC,male,asian,not hispanic or latino,54,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-A114,male,black or african american,not hispanic or latino,42,Stage II,T2,,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-WX-AA46,male,white,not hispanic or latino,61,Stage II,T2,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAW2,male,asian,not hispanic or latino,69,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAD2,male,asian,not hispanic or latino,66,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A25W,female,white,not hispanic or latino,79,Stage IIIB,T3b,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-5C-A9VG,male,white,not hispanic or latino,58,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A3KF,female,white,,66,Stage I,T1,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A25X,male,asian,not hispanic or latino,73,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-RG-A7D4,male,black or african american,not hispanic or latino,69,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADE,male,asian,not hispanic or latino,50,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-G3-AAV4,female,white,not hispanic or latino,83,Stage I,T1,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAD0,female,asian,not hispanic or latino,73,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACN,male,asian,not hispanic or latino,32,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A10R,female,white,not hispanic or latino,66,,,,,,"Hepatocellular carcinoma, NOS",8170/3,,,,Yes,recurrence
+TCGA-DD-A39X,female,white,not hispanic or latino,78,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AAD3,male,asian,not hispanic or latino,43,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9GZ,female,white,not hispanic or latino,82,Stage II,T2,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A11D,female,white,not hispanic or latino,57,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AACQ,male,asian,not hispanic or latino,50,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Bone, NOS",,,Yes,recurrence
+TCGA-DD-A1ED,male,white,not hispanic or latino,68,Stage I,T1,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-UB-A7MA,female,white,not hispanic or latino,62,Stage II,T2b,N0,M0,G2,Combined hepatocellular carcinoma and cholangiocarcinoma,8180/3,Liver,Liver,no,No,primary
+TCGA-DD-A4NF,male,white,not hispanic or latino,72,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AAW0,male,asian,not hispanic or latino,54,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A7M9,male,white,not hispanic or latino,70,Stage IIIB,T3b,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-DD-AAVW,male,asian,not hispanic or latino,35,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAVZ,male,asian,not hispanic or latino,38,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BD-A2L6,male,white,,69,,T2,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A5SI,male,asian,not hispanic or latino,44,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AAVU,male,asian,not hispanic or latino,46,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-G3-AAV2,male,white,not hispanic or latino,50,Stage I,T1,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACM,male,asian,not hispanic or latino,48,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-FV-A3R2,male,white,not hispanic or latino,75,Stage I,T1,NX,MX,,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-2Y-A9H7,female,white,not hispanic or latino,81,,,,,,"Basal cell carcinoma, NOS",8090/3,Skin of other and unspecified parts of face,,,,Prior primary
+TCGA-EP-A2KB,female,white,not hispanic or latino,46,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-CC-A8HU,female,asian,not hispanic or latino,39,Stage IIIA,T3,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A4NB,male,white,not hispanic or latino,25,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, fibrolamellar",8171/3,Liver,Liver,no,No,primary
+TCGA-PD-A5DF,female,white,not hispanic or latino,58,Stage IIIB,T4,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-5261,male,asian,not hispanic or latino,44,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A11B,male,white,not hispanic or latino,73,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-GJ-A6C0,female,white,not hispanic or latino,75,Stage II,T2,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-5262,male,asian,not hispanic or latino,67,Stage IIIC,T4,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADW,male,asian,not hispanic or latino,48,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-A1EF,female,white,not hispanic or latino,57,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-XR-A8TG,male,white,hispanic or latino,58,Stage I,T1,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-DD-AADJ,female,asian,not hispanic or latino,70,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-XR-A8TF,male,white,hispanic or latino,74,Stage I,T1,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-K7-AAU7,male,white,not hispanic or latino,61,,,,,,,,,,,Yes,
+TCGA-DD-AAD1,female,asian,not hispanic or latino,51,Stage I,T1,N0,M0,G4,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ED-A7XO,male,asian,not hispanic or latino,29,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AACH,male,asian,not hispanic or latino,69,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-ZP-A9CZ,male,asian,not hispanic or latino,72,,T1,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A7IE,male,asian,not hispanic or latino,57,Stage IIIA,T3,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-MI-A75G,male,white,not hispanic or latino,63,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A10U,male,white,not hispanic or latino,69,,T2,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A25Y,female,asian,not hispanic or latino,52,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A5UE,male,asian,not hispanic or latino,48,,,,,,"Hepatocellular carcinoma, NOS",8170/3,,,,Yes,recurrence
+TCGA-DD-A73D,female,white,not hispanic or latino,68,Stage II,T2,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A5SK,male,white,not hispanic or latino,58,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AAD8,female,asian,not hispanic or latino,73,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-MR-A520,male,white,not hispanic or latino,58,Stage I,T1,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A7M6,female,white,not hispanic or latino,60,Stage I,T1,NX,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-RC-A7SB,male,asian,not hispanic or latino,53,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A1EL,male,black or african american,not hispanic or latino,23,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-5R-AA1C,male,white,not hispanic or latino,57,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ED-A8O5,female,asian,not hispanic or latino,59,Stage IIIA,T3a,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2V-A95S,male,asian,not hispanic or latino,,Stage II,T2,NX,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A3MB,male,asian,not hispanic or latino,36,Stage IIIA,T3,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A5SJ,male,white,not hispanic or latino,59,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-HP-A5MZ,male,,,62,Stage I,T1,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-RC-A6M4,female,white,not hispanic or latino,74,Stage IIIA,T3,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A25Z,male,asian,not hispanic or latino,58,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-K7-A5RF,male,white,not hispanic or latino,64,Stage I,T1,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9GT,male,white,not hispanic or latino,51,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AAW1,male,asian,not hispanic or latino,55,Stage IIIA,T3,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-RC-A7SH,male,asian,not hispanic or latino,42,,,,,,"Hepatocellular carcinoma, clear cell type",8174/3,"Lung, NOS",,,Yes,recurrence
+TCGA-DD-AADN,male,asian,not hispanic or latino,59,Stage I,T1,NX,MX,G4,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ED-A66Y,female,asian,not hispanic or latino,51,Stage IIIA,T3a,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACO,male,asian,not hispanic or latino,40,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAEI,male,asian,not hispanic or latino,72,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Bone, NOS",,,Yes,recurrence
+TCGA-ZP-A9CY,female,white,not hispanic or latino,66,,T1,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9H8,female,white,not hispanic or latino,85,,T1,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A3A2,female,white,not hispanic or latino,76,Stage I,T1,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A5UD,male,asian,not hispanic or latino,45,,,,,,"Hepatocellular carcinoma, NOS",8170/3,,,,Yes,recurrence
+TCGA-ZP-A9D0,female,black or african american,not hispanic or latino,67,,T1,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A10W,male,asian,not hispanic or latino,50,,T4,NX,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-WX-AA47,female,white,not hispanic or latino,33,Stage IIIA,T3a,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A3CK,male,asian,not hispanic or latino,61,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A3CH,male,asian,not hispanic or latino,53,Stage IIIA,T3a,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A1EI,male,asian,not hispanic or latino,46,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAE1,male,asian,not hispanic or latino,52,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAEE,male,asian,not hispanic or latino,55,Stage I,T1,N0,M0,G4,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAE3,male,asian,not hispanic or latino,50,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A7M7,male,white,not hispanic or latino,65,Stage I,T1,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACL,female,asian,not hispanic or latino,66,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A10X,female,white,not hispanic or latino,52,Stage IIIA,T3a,N0,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-FV-A3R3,female,white,not hispanic or latino,38,Stage I,T1,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9GW,male,white,not hispanic or latino,64,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AACT,female,asian,not hispanic or latino,69,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ZS-A9CG,male,white,not hispanic or latino,55,Stage II,T2,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A4NH,female,white,not hispanic or latino,65,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Lung, NOS",,,Yes,recurrence
+TCGA-DD-AADK,female,asian,not hispanic or latino,68,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADC,male,asian,not hispanic or latino,53,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AAD6,male,asian,not hispanic or latino,66,Stage IIIA,T3a,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACD,male,asian,not hispanic or latino,48,Stage I,T1,N0,M0,G4,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-NI-A8LF,male,white,not hispanic or latino,74,Stage I,T1,NX,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ZP-A9D4,female,white,not hispanic or latino,64,,T1,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAE7,male,asian,not hispanic or latino,72,Stage I,T1,N0,M0,,Tubular adenocarcinoma,8211/3,"Stomach, NOS",,,,Synchronous primary
+TCGA-DD-A39Z,female,,,43,Stage II,T2,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACX,male,asian,not hispanic or latino,66,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-EP-A2KA,female,white,not hispanic or latino,52,Stage IIIA,T3a,NX,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ZP-A9D1,female,white,not hispanic or latino,56,,T1,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-DD-A3A9,female,white,not hispanic or latino,64,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Lung, NOS",,,Yes,recurrence
+TCGA-DD-A115,male,white,,53,Stage IIIA,T3,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-GJ-A9DB,male,white,not hispanic or latino,68,Stage I,T1,N0,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADS,male,asian,not hispanic or latino,63,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ED-A7PX,female,asian,not hispanic or latino,48,Stage II,T2,NX,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A73G,female,white,not hispanic or latino,73,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-5R-AAAM,female,white,not hispanic or latino,65,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADQ,male,asian,not hispanic or latino,59,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A39W,female,white,not hispanic or latino,29,Stage III,T3,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-WQ-A9G7,female,white,not hispanic or latino,71,,T3a,NX,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9H0,male,white,hispanic or latino,49,Stage IIIA,T3,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAC8,male,asian,not hispanic or latino,72,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-KR-A7K8,male,,,57,Stage I,T1,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A216,female,white,,62,Stage IIIA,T3,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADV,male,asian,not hispanic or latino,50,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-DD-AAE9,male,asian,not hispanic or latino,69,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-XR-A8TC,female,white,hispanic or latino,43,Stage I,T1,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,Yes,primary
+TCGA-G3-AAV5,male,white,not hispanic or latino,67,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Adrenal gland, NOS",,,Yes,recurrence
+TCGA-K7-A5RG,male,black or african american,not hispanic or latino,66,Stage I,T1,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A3A3,male,asian,not hispanic or latino,45,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9H5,female,white,not hispanic or latino,59,Stage I,T1,N0,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A4NI,male,white,not hispanic or latino,67,,,,,,"Adenocarcinoma, NOS",8140/3,"Colon, NOS",,,,Prior primary
+TCGA-DD-A1EC,female,white,not hispanic or latino,20,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A1EJ,female,white,not hispanic or latino,71,Stage IIIC,T1,N1,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAED,male,asian,not hispanic or latino,51,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A4NR,female,white,not hispanic or latino,85,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A7IG,male,asian,not hispanic or latino,47,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-WX-AA44,female,white,hispanic or latino,64,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-A73B,female,white,hispanic or latino,72,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-MI-A75I,male,black or african american,not hispanic or latino,61,,,,,,,,Liver,,,Yes,
+TCGA-ED-A459,male,asian,not hispanic or latino,47,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAE2,male,asian,not hispanic or latino,51,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAW3,male,asian,not hispanic or latino,69,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BW-A5NP,female,white,hispanic or latino,26,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AA3A,female,white,not hispanic or latino,81,Stage I,T1,N0,MX,G4,Combined hepatocellular carcinoma and cholangiocarcinoma,8180/3,Liver,Liver,no,No,primary
+TCGA-XR-A8TD,female,white,hispanic or latino,49,Stage IIIB,T3,N0,M0,G3,"Hepatocellular carcinoma, clear cell type",8174/3,Liver,Liver,no,No,primary
+TCGA-BC-A10S,male,white,not hispanic or latino,81,,T3,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-T1-A6J8,male,white,not hispanic or latino,68,,,,,,,,"Bladder, NOS",,,,Prior primary
+TCGA-KR-A7K0,male,white,,65,,,,,,"Squamous cell carcinoma, NOS",8070/3,"Skin, NOS",,,,Prior primary
+TCGA-CC-A8HV,female,asian,not hispanic or latino,51,,,,,,,,"Lung, NOS",,,Yes,Subsequent Primary
+TCGA-DD-A4NK,female,white,not hispanic or latino,80,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-FV-A4ZP,male,white,not hispanic or latino,78,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Adrenal gland, NOS",,,Yes,recurrence
+TCGA-BC-4072,female,white,not hispanic or latino,74,Stage IIIA,T3,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,,No,primary
+TCGA-G3-AAV7,male,asian,not hispanic or latino,38,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A9FU,female,asian,not hispanic or latino,52,Stage IIIA,T3a,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAE0,female,asian,not hispanic or latino,45,Stage IIIA,T3a,N0,M0,G4,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADB,male,asian,not hispanic or latino,51,Stage I,T1,N0,M0,G4,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A11A,male,black or african american,not hispanic or latino,67,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-5C-A9VH,male,white,not hispanic or latino,70,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A3MA,male,asian,not hispanic or latino,61,Stage IIIA,T3,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A3A7,male,,,67,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-CC-5264,male,asian,not hispanic or latino,71,Stage IIIA,T3,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADM,male,asian,not hispanic or latino,58,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAD5,male,asian,not hispanic or latino,54,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Lung, NOS",,,Yes,recurrence
+TCGA-DD-AACF,male,asian,not hispanic or latino,68,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-WJ-A86L,female,white,not hispanic or latino,68,Stage I,T1,NX,MX,G2,"Clear cell adenocarcinoma, NOS",8310/3,Liver,Liver,no,No,primary
+TCGA-BC-A10Y,male,white,not hispanic or latino,76,,,,,,"Hepatocellular carcinoma, NOS",8170/3,,,,Yes,recurrence
+TCGA-DD-A1EE,male,white,not hispanic or latino,73,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-FV-A4ZQ,male,white,not hispanic or latino,52,Stage I,T1,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A119,male,asian,not hispanic or latino,40,Stage IV,T3a,N0,M1,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A1HT,male,asian,not hispanic or latino,50,Stage IIIA,T3,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACW,male,asian,not hispanic or latino,43,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A1EB,female,,,72,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-A3A8,male,white,not hispanic or latino,75,,,,,,"Squamous cell carcinoma, NOS",8070/3,"Hypopharynx, NOS",,,,Prior primary
+TCGA-CC-5258,male,asian,not hispanic or latino,48,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A5W4,male,white,not hispanic or latino,69,Stage 0,Tis,NX,M0,,,,Cecum,,,,Synchronous primary
+TCGA-DD-A1EG,male,white,not hispanic or latino,76,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACB,female,asian,not hispanic or latino,74,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A217,female,white,,75,Stage II,T2,NX,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-AAV0,male,asian,not hispanic or latino,58,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAEK,male,asian,not hispanic or latino,51,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A10Z,female,white,not hispanic or latino,62,Stage I,T1,N0,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A69I,male,white,,69,Stage I,T1,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADF,female,asian,not hispanic or latino,64,Stage I,T1,N0,M0,G4,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-RC-A7SF,male,asian,not hispanic or latino,66,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-EP-A2KC,male,black or african american,not hispanic or latino,62,Stage I,T1,NX,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ES-A2HS,male,white,not hispanic or latino,80,Stage I,T1,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-CC-5259,female,asian,not hispanic or latino,60,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-2Y-A9GY,female,white,not hispanic or latino,64,Stage II,T2,NX,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A3KG,female,white,not hispanic or latino,68,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-A4NO,male,white,not hispanic or latino,65,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-O8-A75V,male,,hispanic or latino,54,Stage I,T1,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A69H,male,white,not hispanic or latino,64,Stage II,T2,NX,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A73C,female,white,not hispanic or latino,65,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-5C-AAPD,male,asian,not hispanic or latino,61,Stage II,T2,N0,M0,G1,Combined hepatocellular carcinoma and cholangiocarcinoma,8180/3,Liver,Liver,no,No,primary
+TCGA-DD-AACP,male,asian,not hispanic or latino,64,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-KR-A7K7,female,white,,61,,,,,,"Adenocarcinoma, NOS",8140/3,Endometrium,,,,Prior primary
+TCGA-ZS-A9CE,female,white,not hispanic or latino,79,Stage II,T2,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-DD-A118,female,white,not hispanic or latino,77,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ES-A2HT,male,black or african american,not hispanic or latino,54,Stage I,T1,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A5UC,male,asian,not hispanic or latino,63,,,,,,,,"Lung, NOS",,,Yes,Subsequent Primary
+TCGA-HP-A5N0,female,,,87,,TX,NX,M0,,"Hepatocellular carcinoma, clear cell type",8174/3,Liver,Liver,no,No,primary
+TCGA-ED-A8O6,female,asian,not hispanic or latino,50,Stage IIIA,T3a,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ZS-A9CF,male,white,not hispanic or latino,64,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-2Y-A9H4,male,black or african american,not hispanic or latino,68,Stage I,T1,N0,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A1EA,male,asian,not hispanic or latino,68,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AAVQ,male,asian,not hispanic or latino,38,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-A1E9,male,white,not hispanic or latino,70,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A4NJ,female,white,not hispanic or latino,54,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-K7-A6G5,male,white,not hispanic or latino,66,Stage I,T1,N0,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACS,male,asian,not hispanic or latino,39,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAVR,male,asian,not hispanic or latino,44,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-MR-A8JO,male,white,,34,Stage I,T1,N0,MX,G3,"Hepatocellular carcinoma, fibrolamellar",8171/3,Liver,Liver,no,No,primary
+TCGA-G3-A7M5,male,asian,not hispanic or latino,76,Stage I,T1,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A73F,female,white,not hispanic or latino,77,Stage I,T1,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ED-A7PZ,male,asian,not hispanic or latino,61,Stage II,T2,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ED-A97K,male,asian,not hispanic or latino,54,Stage IIIA,T3a,N0,M0,G2,Combined hepatocellular carcinoma and cholangiocarcinoma,8180/3,Liver,Liver,no,No,primary
+TCGA-DD-A3A1,male,,,65,Stage IIIA,T3b,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A6UC,male,white,not hispanic or latino,65,Stage IIIB,T3b,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-DD-AACU,male,asian,not hispanic or latino,59,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A4NG,male,white,not hispanic or latino,77,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AADR,male,asian,not hispanic or latino,58,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADG,male,asian,not hispanic or latino,70,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-G3-A3CG,male,white,not hispanic or latino,80,Stage IIB,T2b,NX,M0,,"Adenocarcinoma, NOS",8140/3,Prostate gland,,,,Prior primary
+TCGA-BC-A10T,male,white,not hispanic or latino,76,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Lung, NOS",,,Yes,recurrence
+TCGA-FV-A496,female,white,not hispanic or latino,84,Stage I,T1,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-LG-A9QC,male,white,not hispanic or latino,48,Stage I,T1,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A4NV,male,white,not hispanic or latino,61,Stage IIIA,T3,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACV,male,asian,not hispanic or latino,53,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A3M9,male,asian,not hispanic or latino,45,,,,,,"Hepatocellular carcinoma, spindle cell variant",8173/3,,,,Yes,recurrence
+TCGA-UB-A7MF,male,white,not hispanic or latino,56,,TX,NX,M0,,"Adenocarcinoma, NOS",8140/3,"Colon, NOS",,,,Prior primary
+TCGA-DD-AAVV,male,asian,not hispanic or latino,56,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ZP-A9CV,male,white,not hispanic or latino,59,,T1,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ZS-A9CD,male,white,not hispanic or latino,73,Stage II,T2,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-4R-AA8I,male,white,not hispanic or latino,66,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AACJ,male,asian,not hispanic or latino,75,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BD-A3ER,male,white,not hispanic or latino,62,,,,,,,,Prostate gland,,,,Prior primary
+TCGA-LG-A9QD,male,white,hispanic or latino,68,Stage IIIA,T3a,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-3K-AAZ8,male,black or african american,not hispanic or latino,65,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-CC-A8HT,male,asian,not hispanic or latino,74,,,,,,"Hepatocellular carcinoma, NOS",8170/3,,,,Yes,recurrence
+TCGA-EP-A12J,male,black or african american,not hispanic or latino,62,Stage I,T1,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9GS,male,white,hispanic or latino,58,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Lung, NOS",,,Yes,recurrence
+TCGA-DD-AADP,male,asian,not hispanic or latino,45,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADI,female,asian,not hispanic or latino,43,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A116,male,asian,not hispanic or latino,68,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Rib, sternum, clavicle and associated joints",,,Yes,recurrence
+TCGA-G3-A5SL,male,white,not hispanic or latino,70,Stage II,T2,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-NI-A4U2,male,white,not hispanic or latino,71,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Small intestine, NOS",,,Yes,recurrence
+TCGA-2Y-A9H3,male,white,hispanic or latino,45,Stage II,T2,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9H1,male,white,not hispanic or latino,58,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AADO,male,asian,not hispanic or latino,55,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAVS,male,asian,not hispanic or latino,56,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-EP-A3JL,male,white,not hispanic or latino,76,Stage I,T1,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-2Y-A9HA,male,white,not hispanic or latino,70,Stage II,T2,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A112,male,white,not hispanic or latino,80,,T3,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-ED-A7PY,female,asian,not hispanic or latino,20,Stage II,T2,NX,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ED-A627,male,white,not hispanic or latino,74,Stage I,T1,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A1EK,female,white,not hispanic or latino,64,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Lung, NOS",,,Yes,recurrence
+TCGA-DD-AAE6,female,asian,not hispanic or latino,59,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-RC-A6M6,male,white,not hispanic or latino,75,Stage II,T2,NX,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-AAV6,female,white,not hispanic or latino,53,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-A4NS,female,white,not hispanic or latino,61,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-5263,male,asian,not hispanic or latino,35,Stage IIIA,T3,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-MI-A75C,male,white,not hispanic or latino,64,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADL,male,asian,not hispanic or latino,58,Stage I,T1,N0,M0,G4,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-FV-A3I0,female,white,not hispanic or latino,76,Stage II,T2,NX,M0,G2,"Hepatocellular carcinoma, fibrolamellar",8171/3,Liver,Liver,no,No,primary
+TCGA-ED-A82E,female,asian,not hispanic or latino,60,Stage IIIA,T3a,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A7II,male,asian,not hispanic or latino,54,,,,,,"Hepatocellular carcinoma, NOS",8170/3,,,,Yes,recurrence
+TCGA-DD-A3A4,male,white,not hispanic or latino,37,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AACE,male,asian,not hispanic or latino,62,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AAC9,male,asian,not hispanic or latino,51,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-RC-A7SK,male,asian,not hispanic or latino,59,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AAEA,male,asian,not hispanic or latino,65,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-UB-AA0U,male,white,not hispanic or latino,60,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-A3A0,male,white,not hispanic or latino,70,Stage I,T1,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A113,female,white,not hispanic or latino,55,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-UB-A7MB,male,white,not hispanic or latino,24,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AAVX,male,asian,not hispanic or latino,38,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Bone, NOS",,,Yes,recurrence
+TCGA-QA-A7B7,male,black or african american,not hispanic or latino,48,Stage II,T2,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9HB,male,,hispanic or latino,66,Stage I,T1,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9GU,female,white,not hispanic or latino,55,Stage I,T1,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADD,male,asian,not hispanic or latino,51,Stage I,T1,N0,M0,G4,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A3CI,male,white,not hispanic or latino,71,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A7IL,male,asian,not hispanic or latino,61,Stage IIIA,T3,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACG,male,asian,not hispanic or latino,52,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-A73A,male,white,not hispanic or latino,71,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ED-A66X,male,asian,not hispanic or latino,35,Stage IIIA,T3a,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-EP-A26S,male,white,not hispanic or latino,70,Stage I,T1,N0,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A25S,male,white,not hispanic or latino,64,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Bone, NOS",,,Yes,recurrence
+TCGA-DD-AAE8,male,asian,not hispanic or latino,45,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A4NN,female,white,not hispanic or latino,56,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Lung, NOS",,,Yes,recurrence
+TCGA-G3-A25U,female,asian,not hispanic or latino,63,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-YA-A8S7,male,white,hispanic or latino,68,Stage IIIA,T3a,N0,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9H6,female,white,not hispanic or latino,68,Stage I,,,,,,,"Uterus, NOS",,,,Prior primary
+TCGA-DD-A4NE,female,white,hispanic or latino,75,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-FV-A495,female,white,not hispanic or latino,51,Stage II,T2,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAEG,female,asian,not hispanic or latino,59,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-UB-A7ME,male,asian,not hispanic or latino,51,Stage I,T1,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A39Y,male,asian,not hispanic or latino,67,Stage I,T1,NX,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A4NA,female,white,not hispanic or latino,67,Stage IIIC,T2,N1,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-FV-A3I1,female,white,not hispanic or latino,81,Stage II,T2,N0,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-DD-A4NQ,male,white,hispanic or latino,60,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-A4ND,female,white,not hispanic or latino,56,,,,,,,,"Breast, NOS",,,Yes,Subsequent Primary
+TCGA-DD-AAVY,male,asian,not hispanic or latino,56,Stage IIIA,T3,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-UB-A7MD,male,black or african american,not hispanic or latino,67,Stage I,T1,N0,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A3A6,female,white,not hispanic or latino,72,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A9FV,male,asian,not hispanic or latino,57,Stage IIIA,T3,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ED-A4XI,male,asian,not hispanic or latino,58,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-LG-A6GG,female,white,not hispanic or latino,79,Stage III,T4,N0,M0,,"Melanoma, NOS",8720/3,"Upper limb, NOS",,,,Prior primary
+TCGA-RC-A6M3,male,american indian or alaska native,,24,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAE4,female,asian,not hispanic or latino,49,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-BW-A5NQ,male,white,not hispanic or latino,63,Stage I,T1,NX,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-FV-A23B,female,white,not hispanic or latino,70,Stage II,T2,N0,M0,,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-5260,female,asian,not hispanic or latino,61,Stage IIIC,T4,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A1EH,male,white,not hispanic or latino,23,Stage III,T3,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-A3CJ,male,american indian or alaska native,not hispanic or latino,52,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Bone, NOS",,,Yes,recurrence
+TCGA-ZP-A9D2,male,white,not hispanic or latino,51,,T2,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ED-A7XP,female,asian,not hispanic or latino,53,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AACZ,female,asian,not hispanic or latino,63,Stage I,T1,N0,M0,G4,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-ED-A5KG,female,asian,not hispanic or latino,60,,,,,,"Hepatocellular carcinoma, NOS",8170/3,,,,Yes,recurrence
+TCGA-BC-A110,female,black or african american,not hispanic or latino,51,,,,,,"Nephroblastoma, NOS",8960/3,"Kidney, NOS",,,,Prior primary
+TCGA-DD-AADU,male,asian,not hispanic or latino,60,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9H2,female,white,not hispanic or latino,64,Stage I,T1,N0,MX,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A8HS,male,asian,not hispanic or latino,18,Stage IIIC,T3,N1,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9GV,female,white,not hispanic or latino,54,Stage IV,T4,N0,MX,,"Neuroendocrine carcinoma, NOS",8246/3,"Lung, NOS",,,,Prior primary
+TCGA-G3-A5SM,male,white,not hispanic or latino,58,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-FV-A2QR,male,white,not hispanic or latino,75,Stage I,T1,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-5R-AA1D,female,white,not hispanic or latino,17,Stage IIIA,T3a,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-RC-A6M5,female,white,,20,Stage IVA,T1,N1,M0,G2,"Hepatocellular carcinoma, fibrolamellar",8171/3,Liver,Liver,no,No,primary
+TCGA-WQ-AB4B,male,white,not hispanic or latino,62,Stage II,T2,NX,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACA,male,asian,not hispanic or latino,65,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-FV-A2QQ,male,white,not hispanic or latino,80,Stage I,T1,N0,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-2Y-A9GX,male,white,not hispanic or latino,68,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-G3-AAUZ,male,,hispanic or latino,48,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACK,male,asian,not hispanic or latino,70,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A3A5,female,white,not hispanic or latino,66,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AACY,male,asian,not hispanic or latino,61,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-A39V,male,white,not hispanic or latino,77,Stage II,T2,NX,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BD-A3EP,female,black or african american,not hispanic or latino,75,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-BC-A10Q,female,white,not hispanic or latino,72,,,,,,"Hepatocellular carcinoma, NOS",8170/3,,,,Yes,recurrence
+TCGA-DD-A4NL,male,white,not hispanic or latino,46,Stage I,T1,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A7IF,male,asian,not hispanic or latino,59,Stage IIIA,T3,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-A73E,male,white,not hispanic or latino,66,Stage I,T1,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A123,female,asian,not hispanic or latino,24,Stage IIIA,T3,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADY,female,asian,not hispanic or latino,55,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A7IH,male,asian,not hispanic or latino,58,Stage IIIA,T3,N0,M0,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AADA,female,asian,not hispanic or latino,66,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A7IJ,male,asian,not hispanic or latino,56,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AACI,male,asian,not hispanic or latino,69,Stage II,T2,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-UB-AA0V,female,white,not hispanic or latino,69,Stage I,,NX,MX,G1,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,yes,No,primary
+TCGA-CC-A7IK,male,asian,not hispanic or latino,59,,,,,,"Hepatocellular carcinoma, NOS",8170/3,,,,Yes,recurrence
+TCGA-XR-A8TE,male,white,hispanic or latino,16,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-DD-AACC,male,asian,not hispanic or latino,61,,,,,,Combined hepatocellular carcinoma and cholangiocarcinoma,8180/3,Liver,,,Yes,recurrence
+TCGA-BW-A5NO,male,black or african american,not hispanic or latino,50,Stage IIIA,T3a,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-G3-AAV1,male,asian,not hispanic or latino,51,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-2Y-A9H9,male,white,not hispanic or latino,70,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-G3-AAV3,female,white,not hispanic or latino,58,Stage II,T2,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-DD-AAEB,male,asian,not hispanic or latino,60,Stage I,T1,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-EP-A3RK,male,white,not hispanic or latino,73,Stage IIIA,T3a,NX,MX,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-MI-A75H,male,white,not hispanic or latino,77,,,,,,"Squamous cell carcinoma, NOS",8070/3,"Upper limb, NOS",,,,Prior primary
+TCGA-G3-A25V,male,white,not hispanic or latino,68,,,,,,"Hepatocellular carcinoma, NOS",8170/3,Liver,,,Yes,recurrence
+TCGA-BC-A8YO,female,white,not hispanic or latino,66,Stage IIIC,T4,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-RC-A7S9,female,asian,not hispanic or latino,47,Stage I,T1,N0,M0,G3,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-CC-A9FS,male,asian,not hispanic or latino,55,,,,,,,,"Lung, NOS",,,Yes,Subsequent Primary
+TCGA-G3-A25T,female,white,not hispanic or latino,45,Stage IIIA,T3,N0,M0,G2,"Hepatocellular carcinoma, NOS",8170/3,Liver,Liver,no,No,primary
+TCGA-UB-A7MC,male,white,not hispanic or latino,59,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Adrenal gland, NOS",,,Yes,recurrence
+TCGA-GJ-A3OU,male,white,not hispanic or latino,59,Stage I,T1,NX,MX,G2,"Hepatocellular carcinoma, clear cell type",8174/3,Liver,Liver,no,No,primary
+TCGA-DD-AAEH,male,asian,not hispanic or latino,73,,,,,,"Hepatocellular carcinoma, NOS",8170/3,"Bone, NOS",,,Yes,recurrence
+TCGA-KR-A7K2,male,white,,64,Stage I,T1,N0,M0,G1,Combined hepatocellular carcinoma and cholangiocarcinoma,8180/3,Liver,Liver,no,No,primary
