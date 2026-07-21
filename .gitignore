@@ -20,6 +20,7 @@ memory/
 heat_pt/
 logs/
 checkpoints/
+tmp/
 *.ckpt
 *.pth
 
