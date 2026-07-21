@@ -18,10 +18,6 @@
 
 **Summary:** HuMP is a hyperbolic unified multimodal pathology framework for molecular profiles, whole-slide pathology images, and clinical data. It models cross-scale biomedical evidence as a directional hierarchy in Riemannian space and reuses the learned hierarchy for hierarchy-guided sampling (HGS), enabling robust prediction when one or more modalities are missing. This repository contains code for both survival prediction and MIL classification experiments.
 
-## News
-
-- Code for survival prediction and MIL classification is organized into two top-level folders: `Survival/` and `MIL/`.
-- Large WSI features, raw molecular matrices, generated gene features, checkpoints, and experiment outputs are excluded from Git by `.gitignore`.
 
 ## Repository Layout
 
